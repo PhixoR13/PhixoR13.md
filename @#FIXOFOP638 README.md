@@ -1,4 +1,4 @@
-# @PHIXOR13.md @#FIXOFOP638.md
+## @PHIXOR13.md @#FIXOFOP638.md
 name: Run commands on different operating systems
 on:
   push:
@@ -35,7 +35,7 @@ jobs:
 
 ---
 
-¡Bienvenido al holocrón digital! Soy Josue Illescas Granillo (@PhixoR13), un tecnólogo creativo y arquitecto de rituales digitales. Mi misión es custodiar y expandir el FIXOverse, un universo donde el código, la narrativa ceremonial y el diseño de experiencias se fusionan.
+¡Bienvenido al holocrón digital! Soy Josue Illescas Granillo (@PhixoR13.md), un tecnólogo creativo y arquitecto de rituales digitales. Mi misión es custodiar y expandir el FIXOverse, un universo donde el código, la narrativa ceremonial y el diseño de experiencias se fusionan.
 
 🔭 Mi Enfoque Estratégico
 
@@ -93,8 +93,8 @@ Estoy abierto a colaboraciones, especialmente en los campos de diseño generativ
 ---
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=PhixoR13&show_icons=true&locale=es&theme=dracula" alt="Estadísticas de PhixoR13" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=PhixoR13&layout=compact&locale=es&theme=dracula" alt="Lenguajes más usados por PhixoR13" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=PhixoR13&show_icons=true&locale=es&theme=dracula" alt="Estadísticas de PhixoR13.md" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=PhixoR13&layout=compact&locale=es&theme=dracula" alt="Lenguajes más usados por #PhixoR13.md" />
 </p>
 
 #FIXOverse #GitCeremonial #CosmicWealth #PHIXO #FoP638
