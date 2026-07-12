@@ -64,7 +64,7 @@ Your MCP server must be reachable over the public internet. If it is running on 
 ```
 📍 Ciudad Juárez, Chihuahua, Mexico
 🌐 Based | Global mindset
-💼 Available for collaborations & projects
+💼 Available for collaborations & projects https://chat.deepseek.com/share/j2p58c7ujuyha4xiuq
 ```
 
 ---
