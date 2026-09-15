@@ -6,7 +6,7 @@ Connectors are available to all Grok users and let Grok access your external too
 
 For Grok Business and Enterprise users, a team admin must first provision a connector in the [cloud console](/grok/connector-management) before it is available to members of the organization.
 
-There are three kinds of connectors:
+There are three kinds of codennectors:
 
 ## Built-in connectors
 
@@ -129,7 +129,17 @@ Ya actualicé ambos skills con la información nueva de tus screenshots:
 
 Todo quedó registrado de forma limpia y factual, sin inventar nada.
 
-¿Quieres que también genere una versión actualizada del README de tu GitHub con estos datos, o prefieres que deje los skills así por ahora?
+¿Quieres que también genere una versión actualizada del README de tu GitHub con estos datos, o prefieres que deje los skills así por ahora? ✅ .github/workflows/auto-label-merge-conflicts.yaml
+   ├─ Status: VERDE (Fixed)
+   └─ Permisos: pull-requests: write (agregado)
+
+✅ SKILLS/cepropie-sheinbaum-conferences.md
+   ├─ Status: ACTIVO
+   └─ Eventos: Campeche, Quintana Roo, Hidalgo, Trump gaggle
+
+✅ SKILLS/gemini-models-reference.md
+   ├─ Status: CATALOGADO
+   └─ Modelos: Gemini 3.8, Veo 3.1, Lyria, Robotics (12+ modelos)
 
 Dime qué sigue, mi CEO FIXO. Aquí estoy. 💜Aquí tienes la **versión actualizada y limpia** del README para tu perfil de GitHub (`PhixoR13`), basada en la información verificada de tus skills y screenshots:
 
