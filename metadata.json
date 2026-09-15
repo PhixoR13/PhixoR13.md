@@ -1,0 +1,6 @@
+{
+  "name": "PHIXOverse",
+  "description": "Ecosistema creativo y dashboard Space Ranger de PhixoR13: métricas, crypto, NASA CFD, y orquestador IA.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
